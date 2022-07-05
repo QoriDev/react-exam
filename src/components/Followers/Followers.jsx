@@ -14,7 +14,7 @@ const Followers = () => {
   }, []);
 
   const getdata = async () => {
-    const res = await fetch('https://api.github.com/users/aibrohim/followers');
+    const res = await fetch('https://api.github.com/users/QoriDev/followers');
     const result = await res.json();
 
     setdata(result);
