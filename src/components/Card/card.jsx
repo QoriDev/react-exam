@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import "./card.css"
-// import URL from "../../API/URL"
 
 const Card = () => {
 
@@ -41,27 +40,6 @@ const Card = () => {
                             )
                         })
                     }
-
-                    {/* <li className="cards-item">
-                        <a className="cards-link" href="">scoot</a>
-                        <p className="cards-desc" >public</p>
-                    </li>
-                   <li className="cards-item">
-                        <a className="cards-link" href="">create-a-product-using-java-script</a>
-                        <p className="cards-desc" >public</p>
-                    </li>
-                    <li className="cards-item">
-                        <a className="cards-link" href="">coffee-roasters</a>
-                        <p className="cards-desc" >public</p>
-                    </li>
-                    <li className="cards-item">
-                        <a className="cards-link" href="">online-zoo</a>
-                        <p className="cards-desc" >public</p>
-                    </li>
-                    <li className="cards-item">
-                        <a className="cards-link" href="">js-exam</a>
-                        <p className="cards-desc" >public</p>
-                    </li> */}
                     
                 </ul>
             </div>
