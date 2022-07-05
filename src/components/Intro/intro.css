@@ -1,0 +1,20 @@
+.intro-wrap{
+    padding: 10px;
+}
+.intro-title{
+    margin: 0;
+}
+.intro-desc{
+    margin: 0;
+    font-size: 20px;
+}
+.intro-img{
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.intro-link{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #3a3d47;
+}

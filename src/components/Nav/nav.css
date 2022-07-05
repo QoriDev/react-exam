@@ -1,0 +1,15 @@
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+
+.nav-item{
+    margin-right: 30px;
+    position: relative;
+}
+
+.nav-link{
+    font-weight: bold;
+    color: rgb(58, 57, 57);
+    text-decoration: none;
+}

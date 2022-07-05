@@ -1,0 +1,27 @@
+.header__container{
+    display: flex;
+    align-items: center;
+    background-color: #272F43;
+    margin-bottom: 20px;
+}
+
+::placeholder{
+    color: #F8F7F7;
+}
+
+.header-logo{
+    margin-right: 15px;
+}
+
+.nav__list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.nav__link{
+    text-decoration: none;
+    color: #F8F7F7;
+    margin-right: 20px;
+}

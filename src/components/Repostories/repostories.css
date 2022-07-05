@@ -1,0 +1,35 @@
+.repositories__list{
+    list-style: none;
+}
+.repository__item{
+    width: 700px;
+    padding: 10px 20px 5px 10px;
+    margin-bottom: 10px;
+    border: 1px rgb(68, 40, 206) solid;
+    border-radius: 10px;
+}
+
+.repository__link{
+    margin-bottom: 40px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.repository__info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.repository__status{
+    font-weight: bold;
+}
+
+.repository__language{
+    font-weight: bold;
+}
+
+.repository_date{
+    font-weight: bold;
+    font-weight: normal;
+    color: blue;
+}
